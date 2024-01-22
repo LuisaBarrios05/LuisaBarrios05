@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luisa Eleonor Barrios.</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina.</h3>
 
+<h3 align="left">About me:</h3>
+
+I am a Full Stack Web Developer with training in Node.js, React, Redux and PostgreSQL, in addition to using other development tools.
+I look for opportunities to apply and expand my skills, contributing to the operation and design of web projects.
+
 - 🌱 I’m currently learning **TypeScript, Redux Toolkit, Figma, React Native**
 
 - 📫 How to reach me **luisabarrios01@gmail.com**
